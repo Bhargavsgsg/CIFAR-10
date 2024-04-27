@@ -6,7 +6,7 @@ To run the API locally, follow these steps:
 
 1. Clone this repository:
 <pre>
-   git clone https://github.com/Bhargavsgsg/CIFAR-10-API.git
+   git clone https://github.com/Bhargavsgsg/CIFAR-10.git
 </pre>
 2. Install the requied python packages:
 <pre>
