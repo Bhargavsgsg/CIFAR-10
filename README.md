@@ -1,5 +1,5 @@
 # CIFAR-10
-This project implements a simple web API for classifying images using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset. The API allows users to upload an image and receive a prediction of the image's class label from the CIFAR-10 dataset. This repository also consists of a jupyter notebook with a walkthrough of the model details. 
+This project implements a simple web API for classifying images using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset. The API allows users to upload an image and receive a prediction of the image's class label from the CIFAR-10 dataset. This repository also consists of a jupyter notebook with a walkthrough of the model details. There are a few test images in the Data folder for testing the API.
 ## Getting Started
 
 To run the API locally, follow these steps:
