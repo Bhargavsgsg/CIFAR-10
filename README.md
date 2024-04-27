@@ -1,21 +1,21 @@
+
 # CIFAR-10
 This project implements a simple web API for classifying images using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset. The API allows users to upload an image and receive a prediction of the image's class label from the CIFAR-10 dataset. This repository also consists of a jupyter notebook with a walkthrough of the model details. There are a few test images in the Data folder for testing the API.
 ## Getting Started
-
 To run the API locally, follow these steps:
 
 1. Clone this repository:
-<pre>
-   git clone https://github.com/Bhargavsgsg/CIFAR-10.git
-</pre>
+```
+git clone https://github.com/Bhargavsgsg/CIFAR-10.git
+```
 2. Install the requied python packages:
-<pre>
-   pip install -r requirements.txt
-</pre>
-3. Run the Flask application:
-<pre>
-   python app.py
-</pre>
+```
+pip install -r requirements.txt
+```
+3. Make sure to change the directory to appropriate repository before proceeding. Run the Flask application:
+```
+python app.py
+```
 4. Access the API at http://127.0.0.1:5000 in your web browser.
 # Usage
 ## Uploading an image
